@@ -1,8 +1,22 @@
 # Educators on GitHub
 
-This repo is for collecting examples of ways educators are using GitHub to create lessons to share with other educators, share sylabuses, get feedback from students, create websites for courses... 
+This repo is for collecting examples of and thoughts on ways educators are using GitHub to create lessons to share with other educators, share sylabuses, get feedback from students, create websites for courses... 
 
-If you have an example, please submit a pull request! 
+If you have something to add, please submit a pull request! 
+
+### Ways GitHub Could be Used
+
+- Create a repository with .pdfs, .txt or .md files of lessons you've created.
+ - Share the link with other educators.
+ - Get their feedback and additions through pull requests.
+ - Share the link with students!
+
+- Create a GitHub organization account for your school, add educators as members
+ - Everyone is able to add materials, find materials, comment on materials, propose changes, track changes and share.
+
+- Use [GitHub Pages](http://pages.github.com) to create a website for a course.
+
+### Examples in the Wild
 
 ![tufts account](https://raw.github.com/jlord/edu-on-github/master/images/tufts-acct.png)
 - **Organization** Tufts University Department of Computer Science, [tuftsdev](https://github.com/tuftsdev)
