@@ -20,5 +20,5 @@ If you have an example, please submit a pull request!
 ![khan issues](https://raw.github.com/jlord/edu-on-github/master/images/khan-issues.png)
 - **Organization** Khan Academy [Khan](https://github.com/Khan), puts math course resources on GitHub, [khan-exercises](https://github.com/khan/khan-exercises), and uses GitHub Issues to get [feedback from students](https://github.com/khan/khan-exercises/issues). 
 
-![tips](https://raw.github.com/jlord/edu-on-github/master/images/friedenberg-tips.png)
+![tips](https://raw.github.com/jlord/edu-on-github/master/images/mfriedenberg-tips.png)
 - Penn State University, **Educator/GitHub User** Marc Friedenberg [mfriedenberg](https://github.com/mfriedenberg), puts course materials on GitHub to share with other professors and allow students to see changes in materials over time : [repos](https://github.com/mfriedenberg?tab=repositories). 
