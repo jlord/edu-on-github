@@ -6,12 +6,12 @@ If you have something to add, please submit a pull request!
 
 ### Ways GitHub Could be Used
 
-- Create a repository with .pdfs, .txt or .md files of lessons you've created.
+- Create a [repository](https://help.github.com/articles/creating-a-new-repository) with images, .pdfs, .txt or [.md](https://help.github.com/articles/github-flavored-markdown) files of lessons you've created.
  - Share the link with other educators.
  - Get their feedback and additions through pull requests.
  - Share the link with students!
 
-- Create a GitHub organization account for your school, add educators as members
+- Create a [GitHub organization](https://help.github.com/articles/creating-a-new-organization-account--2) account for your school, add educators as members
  - Everyone is able to add materials, find materials, comment on materials, propose changes, track changes and share.
 
 - Use [GitHub Pages](http://pages.github.com) to create a website for a course.
