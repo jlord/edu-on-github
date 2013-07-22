@@ -18,6 +18,8 @@ If you have something to add, please submit a pull request!
 
 ### Examples in the Wild
 
+- See a detailed account of an educator (and soon to be GitHubber!) and his use of GitHub in [ivan-example.md](https://github.com/jlord/edu-on-github/blob/master/ivan-example.md).
+
 ![tufts account](https://raw.github.com/jlord/edu-on-github/master/images/tufts-acct.png)
 - **Organization** Tufts University Department of Computer Science, [tuftsdev](https://github.com/tuftsdev)
 
