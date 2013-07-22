@@ -4,6 +4,19 @@ This repo is for collecting examples of and thoughts on ways educators are using
 
 If you have something to add, please submit a pull request! 
 
+### Getting Started on GitHub
+
+A few resources for learning the lingo and flow for GitHub.
+
+_from GitHub_
+- [GitHub Guides YouTube Channel](http://www.youtube.com/user/GitHubGuides)
+- [GitHub YouTube Channel](http://www.youtube.com/user/GitHub)
+- [GitHub Training](http://training.github.com/)
+- [GitHub Help](http://help.github.com/)
+
+_others_
+- [Open Sourcerer Skill Guide](http://opensourcerer.diy.org/) on [Diy.org](http://www.diy.org)
+
 ### Ways GitHub Could be Used
 
 - Create a [repository](https://help.github.com/articles/creating-a-new-repository) with images, .pdfs, .txt or [.md](https://help.github.com/articles/github-flavored-markdown) files of lessons you've created.
