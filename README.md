@@ -15,7 +15,7 @@ _from GitHub_
 - [GitHub Help](http://help.github.com/)
 
 _others_
-- [Open Sourcerer Skill Guide](http://opensourcerer.diy.org/) on [Diy.org](http://www.diy.org)
+- [Open Sourcerer Skill Guide](http://opensourcerer.diy.org/) on [DIY.org](http://www.diy.org)
 
 ### Ways GitHub Could be Used
 
