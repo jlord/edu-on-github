@@ -51,3 +51,5 @@ _others_
 
 ![tips](https://raw.github.com/jlord/edu-on-github/master/images/mfriedenberg-tips.png)
 - Penn State University, **Educator/GitHub User** Marc Friedenberg [mfriedenberg](https://github.com/mfriedenberg), puts course materials on GitHub to share with other professors and allow students to see changes in materials over time : [repos](https://github.com/mfriedenberg?tab=repositories). 
+
+- Andrej Bauer [HoTT](https://github.com/HoTT) wrote a book on [informal homotopy type theory](https://github.com/HoTT/book), using GitHub.
